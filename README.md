@@ -1,2 +1,2 @@
-# sqlia
-mariadb,python,ollama
+# dokerizando
+ sql,con ia modelo mistral y python
