@@ -1,0 +1,2 @@
+# sqlia
+mariadb,python,ollama
